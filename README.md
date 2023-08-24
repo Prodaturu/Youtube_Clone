@@ -22,6 +22,8 @@ This project is a simplified clone of YouTube, the popular video-sharing platfor
 2. Open the `index.html` file in your preferred browser.
 3. Explore the YouTube clone!
 
+- Or simply watch it running at `https://prodaturu.github.io/Youtube_Clone`.
+
 ## Customization
 
 You can easily customize the content by modifying the HTML file. Add or remove video previews, change icons, or update styles in the CSS files.
